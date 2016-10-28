@@ -1,7 +1,7 @@
 ---
 title:  其它开源项目
 ---
-一些暂时无法分类的项目暂时都放在这里。 这些也都是比较优秀或者我比较感兴趣的开源项目。 
+一些暂时无法分类的项目暂时都放在这里。 这些也都是比较优秀或者比较有趣的开源项目。 
 
 # 开源项目
 |序号|名称|项目地址|简介|
@@ -20,3 +20,11 @@ title:  其它开源项目
 |     12 |  GuGuJianKong  |   https://github.com/ParryQiu/GuGuJianKong  |   基于lonic开发的web app。多节点监控网站状况。   |
 |     13 |  awesome   |   https://github.com/sindresorhus/awesome  |   github上最受欢迎的awesome系列大全， 获得了超过40000+个stars   |
 |    14 |  computer-science|  https://github.com/open-source-society/computer-science|  1年内自学cs课程，挑战指南及详细的学习计划。 为那些准备系统的学习cs课程的自学者准备  |
+| 15 |wecenter |https://github.com/wecenter/wecenter  |WeCenter 是一款知识型的社交化开源社区程序，专注于企业和行业社区内容的整理、归类、检索和再发行。 http://www.wecenter.com  |
+| 16 | kityminder-editor | https://github.com/fex-team/kityminder-editor  KityMinder Editor 是一款强大、简洁、体验优秀的脑图编辑工具，适合用于编辑树/图/网等结构的数据。编辑器由百度 FEX 基于 kityminder-core 搭建，并且在百度脑图中使用。  |
+| 17 |WeChatMomentStat-Android | https://github.com/Chion82/WeChatMomentStat-Android  | WeChatMomentStat是一个安卓平台的工具，可生成你的微信朋友圈统计数据，并可导出朋友圈数据到JSON文件中。需要root权限。支持最新微信版本。  |
+| 18 | WebIDE| https://github.com/Coding/WebIDE  |Coding WebIDE(https://ide.coding.net) 是 Coding 自主研发的在线集成开发环境 (IDE)。用户可以通过 WebIDE 创建项目的工作空间, 进行在线开发, 调试等操作。同时 WebIDE 集成了 Git 代码版本控制, 用户可以选择 Coding、GitHub、BitBucket、GitLab 等任意的代码仓库。 WebIDE 还提供了分享开发环境的功能, 用户可以保存当前的开发环境, 分享给团队的其他成员。  |
+| 19 |cnki-downloader |https://github.com/amyhaber/cnki-downloader |免费下载cnki的论文，期刊，会议论文等资料的工具。 golang编写。 |
+| 20 | fastnetmon| https://github.com/pavel-odintsov/fastnetmon  | 高性能的ddos负载分析器，支持NetFlow, IPFIX, sFLOW, SnabbSwitch, netmap, PF_RING, PCAP等抓包引擎， 项目由c＋＋编写。  |
+| 21 | web2web | https://github.com/elendirx/web2web | 一个无服务器，无域名的网站， 基于torrents 和 bitcoin blockchain构建。  |
+| 22 | wechat_spider |https://github.com/sundy-li/wechat_spider | 微信公众号爬虫 (只需设置代理, 一键可以爬取所有历史文章) ， golang编写|
